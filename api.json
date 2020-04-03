@@ -1,0 +1,56 @@
+{
+  "home": {
+    "foto": "http://trydo.rainbowit.net/assets/images/about/about-7.jpg",
+    "nome": "Lara Santos",
+    "resumo": "Estudante de Programação, adoro seguir hypes e desenvolver novas skills! Gosto de novos desafios e estou sempre à procura de algo para quebrar a cabeça!",
+    "stacks": [
+      "React",
+      "JavaScript",
+      "JSX",
+      "Consumo de APIs Rest",
+      "ES6+",
+      "HTML",
+      "CSS",
+      "Java"
+    ]
+  },
+  "contato": {
+    "foto": "http://trydo.rainbowit.net/assets/images/about/about-6.jpg",
+    "titulo": "Me contrate!",
+    "subtitulo": "Estou disponível para trabalhos freelancer",
+    "informacao": "Meus Contatos",
+    "contatos": [
+      {
+        "id": 1,
+        "tipo": "Email",
+        "contato": "laarasantos12@gmail.com"
+      },
+      {
+        "id": 2,
+        "tipo": "Telefone",
+        "contato": "19 0000-0000"
+      }
+    ]
+  },
+  "portfolio": {
+    "titulo": "Meu portfólio",
+    "imagens": [
+      {
+        "id": 1,
+        "foto": "https://neilpatel.com/wp-content/uploads/2017/07/pagina-de-contato-no-layout-de-site.jpeg"
+      },
+      {
+        "id": 2,
+        "foto": "https://www.webmaster.pt/wp-content/uploads/2015/10/thtml_salique-e1446032108574.jpg"
+      },
+      {
+        "id": 3,
+        "foto": "https://gestaodeprojetosdigitais.sfo2.cdn.digitaloceanspaces.com/2017/02/como-apresentar-o-layout-do-site-ao-cliente.jpg"
+      },
+      {
+        "id": 4,
+        "foto": "https://davisolucoes.com.br/sites/default/files/2019-06/angela-barroco-imoveis-mockup.jpg"
+      }
+    ]
+  }
+}
